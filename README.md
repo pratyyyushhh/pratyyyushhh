@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/06/23/15/35/dragon-ball-z-5332918_1280.jpg" alt="Goku Banner" width="19%" />
+  <img src="https://i.pinimg.com/736x/b3/fe/c2/b3fec21548803b617854f2ee4addd67e.jpg" alt="Goku Banner" width="19%" />
 </p>
 
 <h1 align="center">
@@ -86,7 +86,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratyyyushhh/pratyyyushhh/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://i.pinimg.com/originals/7b/06/28/7b06281caab103c195d6e17fcc8251ac.gif" alt="snake animation" width="19%" />
 </p>
 
 ---
